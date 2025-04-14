@@ -1,0 +1,9 @@
+image = "/capstor/scratch/cscs/pmartell/droid-slam.sqsh"
+
+mounts = ["/capstor", "/users", "/store"]
+
+writable = true
+workdir = "/capstor/scratch/cscs/pmartell/trajectory_inference"
+
+[env]
+ENROOT_LIBRARY_PATH="/capstor/scratch/cscs/fmohamed/enrootlibn"

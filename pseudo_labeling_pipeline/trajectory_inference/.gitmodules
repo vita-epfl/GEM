@@ -1,0 +1,9 @@
+[submodule "droid_trajectory/droid_slam"]
+	path = droid_trajectory/droid_slam
+	url = https://github.com/princeton-vl/DROID-SLAM.git
+[submodule "depth_anything_v2"]
+	path = depth_anything_v2
+	url = git@github.com:DepthAnything/Depth-Anything-V2.git
+[submodule "geocalib"]
+	path = GeoCalib
+	url = git@github.com:cvg/GeoCalib.git

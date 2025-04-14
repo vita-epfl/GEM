@@ -1,0 +1,35 @@
+# ignore IDE files
+*.pth
+*.pyc
+*.swp
+.idea/
+.vscode/
+__pycache__/
+*.egg-info/
+
+# extra module
+build/
+dist/
+.ninja*
+build.ninja
+*.so
+*.o
+
+# environment
+.venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+core_nid*
+
+# experiment
+logs/
+output/
+checkpoints/
+test_files.txt
+
+# geocalib
+src/geocalib/

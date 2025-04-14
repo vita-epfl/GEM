@@ -1,0 +1,6 @@
+image = "/capstor/store/cscs/swissai/a03/container_images/gem_test_arm.sqsh"
+
+mounts = ["/capstor", "/iopsstor", "/users"]
+
+writable = true
+workdir = "/users/<user>/gem_trajectory_inference"

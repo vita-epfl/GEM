@@ -1,0 +1,34 @@
+# ignore IDE files
+good_files.txt
+bad_files.txt
+weights/
+*.pth
+*.pyc
+*.swp
+.idea/
+.vscode/
+__pycache__/
+*.egg-info/
+
+core_nid*
+# extra module
+build/
+dist/
+.ninja*
+build.ninja
+*.so
+*.o
+
+# environment
+.venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+
+# experiment
+logs/
+logs_slurm/
+output/

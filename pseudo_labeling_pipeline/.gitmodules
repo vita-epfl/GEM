@@ -1,0 +1,9 @@
+[submodule "depth_anything"]
+	path = depth_anything
+	url = git@github.com:DepthAnything/Depth-Anything-V2.git
+[submodule "droid_trajectory/thirdparty/eigen"]
+	path = droid_trajectory/thirdparty/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "droid_trajectory/thirdparty/lietorch"]
+	path = droid_trajectory/thirdparty/lietorch
+	url = https://github.com/princeton-vl/lietorch
