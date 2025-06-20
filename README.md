@@ -20,7 +20,7 @@
 </p>
 <h2 align="center">
    <p>CVPR 2025</p>
-   <a href="https://arxiv.org/abs/2412.11198" align="center">Paper</a> | 
+   <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Hassan_GEM_A_Generalizable_Ego-Vision_Multimodal_World_Model_for_Fine-Grained_Ego-Motion_CVPR_2025_paper.pdf" align="center">Paper</a> | 
    <a href="https://vita-epfl.github.io/GEM.github.io/" align="center">Website</a>
 </h2>
 
