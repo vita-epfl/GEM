@@ -181,6 +181,8 @@ Before running the script, double-check that the dataset paths are correctly set
 
 Check the dataset paths in the 'sample.py' before you run the script.
 
+For running inference on nuScenes, you’ll need the [nuScenes_val.json](https://drive.google.com/drive/folders/1JpZObdR0OXagCbnPZfMSI8vhGLom5pht) file from the Vista repository. This file contains the preprocessed annotations from the nuScenes dataset.
+
 ### Sampling Instructions
 
 Generate unconditional samples or condition on specific inputs:
